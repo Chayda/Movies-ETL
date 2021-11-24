@@ -1,6 +1,6 @@
 # Movies-ETL
 Use IMDB data to make predictions about movies.
-## Extract_Transform_Loat
+## Extract_Transform_Load
 Write ETL function to read in three data files and connect to SQL database using SQLAlchemy (Pandas).
 
 ## Tools:
